@@ -163,6 +163,7 @@ html {
     #mainNav .navbar-collapse .navbar-sidenav > .nav-item {
       width: 250px;
       padding: 0;
+      text-align: left;
     }
     #mainNav .navbar-collapse .navbar-sidenav > .nav-item > .nav-link {
       padding: 1em;

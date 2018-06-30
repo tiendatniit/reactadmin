@@ -206,6 +206,8 @@ class layout extends Component {
       </ul>
     </div>
   </nav>
+  
+ 
       </div>
     )
   }
